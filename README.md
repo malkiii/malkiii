@@ -19,7 +19,7 @@ I'm _Malki Abdurrahman_, a dedicated university student pursuing a computer scie
 - 🏗️ **SSR/SSG** : <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" alt="Nextjs" align=center />
 <img src="https://github-readme-stats.vercel.app/api?username=malkiii&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Github Stats" align=right /><br>
 - 🧪 **Testing** : <img src="https://img.shields.io/badge/-Jest-99425b?style=flat-square&logo=jest" alt="Jest" align=center /> <img src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress" alt="Cypress" align=center />
-- 📱 Mobile apps: <img src="https://img.shields.io/badge/-404_Not_yet..-purple?style=flat-square" alt="Not yet.." align=center />
+- 📱 **Mobile apps** : <img src="https://img.shields.io/badge/-404_Not_yet..-purple?style=flat-square" alt="Not yet.." align=center />
 - 🗃️ **Database** : <img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql" alt="MySQL" align=center /> <img src="https://img.shields.io/badge/-Redis-dd392b?style=flat-square&logoColor=white&logo=Redis" alt="Redis" align=center />
 - 🚀 **Devops** : <img src="https://img.shields.io/badge/-Git-efefe7?style=flat-square&logo=git" alt="Git" align=center /> <img src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud" alt="Google Cloud" align=center />
 - 🤖 **AI tools** : <img src="https://img.shields.io/badge/-ChatGPT-10a37f?style=flat-square&logo=openai" alt="ChatGPT" align=center />
