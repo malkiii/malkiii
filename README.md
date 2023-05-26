@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFhZmFmZWEyZGM1MTQ2ZTUyMjNhZmZmODU3NjdiMWNmZGI4MzFmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/BClfp8V6mQyhzof4gp/giphy.gif" width="30"> Nice to see you here!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkiii&hide=python&layout=pie&theme=radical" alt="Top Langs" align=right />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkiii&hide=python&layout=pie&theme=radical" alt="Top Langs" width=300 align=right />
 
 I'm _Malki Abdurrahman_, a dedicated university student pursuing a computer science degree.I mainly code in TypeScript and I'm an experienced full stack developer with React <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/react-js-icon.svg" alt="React" width=20 align=center /> and Next.js and building dynamic and responsive web applications. I'm interested in AI tools, they incorporate innovative tools into my projects and increase my productivity. I started my coding journey in 2021 and I never shy away from learning something new. You can explore my GitHub portfolio to see the wide range of projects I've worked on.
 
