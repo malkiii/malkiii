@@ -9,13 +9,14 @@ I'm _Malki Abdurrahman_, a dedicated university student pursuing a computer scie
 [![Facebook Badge](https://img.shields.io/badge/-Malki_abdo-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/malkiabduu)](https://web.facebook.com/malkiabduu)
 [![Gmail Badge](https://img.shields.io/badge/-malki.abdurrahmane@gmail.com-c92621?style=flat-square&logo=gmail&logoColor=white&link=mailto:malki.abdurrahmane@gmail.com)](mailto:malki.abdurrahmane@gmail.com)
 
+----------------------------------------
 ## ⚡ Technologies
+
 - 🌐 **Languages** : <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=white&logo=typescript" alt="TypeScript" align=center /> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" align=center /> <img src="https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logoColor=ffd343&logo=Python" alt="Python" align=center />
 - 🎨 **Frontend** : <img src="https://img.shields.io/badge/-React-23272f?style=flat-square&logo=react" alt="React" align=center /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" align=center /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" align=center /> <img src="https://img.shields.io/badge/-Tailwindcss-0f172a?style=flat-square&logo=tailwindcss" alt="Tailwindcss" align=center />
 - 🗄️ **Backend** : <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" alt="Nextjs" align=center /> <img src="https://img.shields.io/badge/-Nodejs-7dac36?style=flat-square&logoColor=white&logo=Node.js" alt="Nodejs" align=center /> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" alt="GraphQL" align=center />
 - 🧪 **Testing** : <img src="https://img.shields.io/badge/-Jest-99425b?style=flat-square&logo=jest" alt="Jest" align=center /> <img src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress" alt="Cypress" align=center />
+<img src="https://github-readme-stats.vercel.app/api?username=malkiii&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Github Stats" align=right /><br>
 - 🗃️ **Database** : <img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql" alt="MySQL" align=center /> <img src="https://img.shields.io/badge/-Redis-dd392b?style=flat-square&logoColor=white&logo=Redis" alt="Redis" align=center />
 - 🚀 **Devops** : <img src="https://img.shields.io/badge/-Git-efefe7?style=flat-square&logo=git" alt="Git" align=center /> <img src="https://img.shields.io/badge/-Ubuntu-dd4814?style=flat-square&logoColor=white&logo=ubuntu" alt="Bash" align=center /> <img src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud" alt="Google Cloud" align=center />
 - 🤖 **AI tools** : <img src="https://img.shields.io/badge/-ChatGPT-10a37f?style=flat-square&logo=openai" alt="ChatGPT" align=center />
-
-<img src="https://github-readme-stats.vercel.app/api?username=malkiii&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Github Stats" align=right />
