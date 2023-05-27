@@ -13,7 +13,7 @@
 
 <h2>⚡ My Teck Stack</h2>
 
-<div align=center>
+<div>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=white&logo=typescript" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logoColor=ffd343&logo=Python" />
