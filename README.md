@@ -11,9 +11,8 @@
   <a href="mailto:malki.abdurrahmane@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-malki.abdurrahmane@gmail.com-c92621?style=flat-square&logo=gmail&logoColor=white&link=mailto:malki.abdurrahmane@gmail.com" /></a>
 </div>
 
----
-
 <h2>⚡ My Teck Stack</h2>
+
 <div align=center>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=white&logo=typescript" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -39,11 +38,11 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-e87611?style=flat-square&logo=cloudflare&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-10a37f?style=flat-square&logo=openai" />
-  
+  <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-10a37f?style=flat-square&logo=openai" />  
 </div>
 
 <h2>📊 Stats</h2>
+
 <div align=center>
   <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=malkiii&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
   <img alt="Top Langs" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkiii&hide=python&layout=donut&theme=radical" height=200 />
