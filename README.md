@@ -13,7 +13,7 @@
 
 ---
 
-<h2>⚡ Technologies</h2>
+<h2>⚡ My Teck Stack</h2>
 <div align=center>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=white&logo=typescript" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -28,13 +28,14 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-99425b?style=flat-square&logo=jest" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00546B?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-dd392b?style=flat-square&logoColor=white&logo=Redis" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logoColor=white&logo=prisma" />
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0066b8?style=flat-square&logo=visual-studio-code" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-2F3A3E?style=flat-square&logo=GNU%20Bash&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-efefe7?style=flat-square&logo=git" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-C12127?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-BD34FE?style=flat-square&logo=vite&logoColor=FFDD35" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-e87611?style=flat-square&logo=cloudflare&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" />
