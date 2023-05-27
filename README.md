@@ -4,7 +4,7 @@
   I'm _Malki Abdurrahman_, a dedicated university student pursuing a computer science degree.I mainly code in TypeScript and I'm an experienced full stack developer with React <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/react-js-icon.svg" alt="React" width=20 align=center /> and Next.js and building dynamic and responsive web applications. I'm interested in AI tools, they incorporate innovative tools into my projects and increase my productivity. I started my coding journey in 2021 and I never shy away from learning something new. You can explore my GitHub portfolio to see the wide range of projects I've worked on.
 </p>
 
-<div>
+<div align=center>
   <a href="https://twitter.com/MalkiAbduu"><img alt="Twitter" src="https://img.shields.io/badge/-@MalkiAbduu-1d9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MalkiAbduu" /></a>
   <a href="https://www.instagram.com/malkiabduu"><img alt="Instagram" src="https://img.shields.io/badge/-malkiabduu-ff0d5f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/malkiabduu" /></a>
   <a href="https://web.facebook.com/malkiabduu"><img alt="Facebook" src="https://img.shields.io/badge/-Malki_abdo-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/malkiabduu" /></a>
@@ -13,7 +13,7 @@
 
 <h2>⚡ My Teck Stack</h2>
 
-<div>
+<div align=center>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=white&logo=typescript" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logoColor=ffd343&logo=Python" />
