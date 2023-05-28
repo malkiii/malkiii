@@ -44,7 +44,7 @@
 <h2>📊 Stats</h2>
 
 <div align=center>
-  <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=malkiii&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
+  <img alt="Github Stats" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=malkiii&theme=radical" />
   <img alt="Top Langs" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkiii&hide=python&layout=donut&theme=radical" height=200 />
 </div>
 
