@@ -5,12 +5,10 @@
 </p>
 
 <div align=center>
-  
-  [![Twitter](https://img.shields.io/badge/-@MalkiAbduu-1d9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MalkiAbduu)](https://twitter.com/MalkiAbduu)
-  [![Instagram](https://img.shields.io/badge/-malkiabduu-ff0d5f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/malkiabduu)](https://www.instagram.com/malkiabduu)
-  [![Facebook](https://img.shields.io/badge/-Malki_abdo-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/malkiabduu)](https://web.facebook.com/malkiabduu)
-  [![Gmail](https://img.shields.io/badge/-malki.abdurrahmane@gmail.com-c92621?style=flat-square&logo=gmail&logoColor=white&link=mailto:malki.abdurrahmane@gmail.com)](mailto:malki.abdurrahmane@gmail.com)
-  
+  <a href="https://twitter.com/MalkiAbduu"><img alt="Twitter" src="https://img.shields.io/badge/-@MalkiAbduu-1d9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MalkiAbduu" /></a>
+  <a href="https://www.instagram.com/malkiabduu"><img alt="Instagram" src="https://img.shields.io/badge/-malkiabduu-ff0d5f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/malkiabduu" /></a>
+  <a href="https://web.facebook.com/malkiabduu"><img alt="Facebook" src="https://img.shields.io/badge/-Malki_abdo-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/malkiabduu" /></a>
+  <a href="mailto:malki.abdurrahmane@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-malki.abdurrahmane@gmail.com-c92621?style=flat-square&logo=gmail&logoColor=white&link=mailto:malki.abdurrahmane@gmail.com" /></a>
 </div>
 
 <h2>⚡ My Teck Stack</h2>
