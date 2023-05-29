@@ -34,7 +34,6 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0066b8?style=flat-square&logo=visual-studio-code" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-2F3A3E?style=flat-square&logo=GNU%20Bash&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-efefe7?style=flat-square&logo=git" />
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-C12127?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-BD34FE?style=flat-square&logo=vite&logoColor=FFDD35" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-e87611?style=flat-square&logo=cloudflare&logoColor=white" />
