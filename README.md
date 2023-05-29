@@ -14,6 +14,7 @@
 <h2>⚡ My Teck Stack</h2>
 
 <div align=center>
+  <img alt="t3 stack" src="https://img.shields.io/badge/-t3_stack-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTEiIHZpZXdCb3g9IjAgMCAxNCAxMSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzFfMikiPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTguOTkzMzcgMS4zNjAzOUwxMC4yNTI5IDAuMDUyNzY0OUgwLjAyNTI4MzhWMS4zNjAzOUg4Ljk5MzM3WiIgZmlsbD0iI0UyRThGMCIvPgo8cGF0aCBkPSJNOC44OTgyIDUuMjI2ODdMMTMuNzg0MSAwLjE5OTg1NUwxMi4wMDM0IDAuMTk5ODQ0TDcuOTAxNyA0LjM4MjM3TDguODk4MiA1LjIyNjg3WiIgZmlsbD0iI0UyRThGMCIvPgo8cGF0aCBkPSJNMTIuNjc5MSA3LjEzMTIxQzEyLjY3OTEgOC40MTQ5MiAxMS42Mzg1IDkuNDU1NjQgMTAuMzU0NyA5LjQ1NTY0QzkuMzE3ODcgOS40NTU2NCA4LjQzODcgOC43NzY0OCA4LjEzOTU0IDcuODM3NzdMNy45NTY0IDcuMjYzMDdMNi45MDkzMyA4LjMxMDA4TDcuMDA1IDguNTM3NjFDNy41NTQzMSA5Ljg0NDU1IDguODQ2ODEgMTAuNzYzNCAxMC4zNTQ3IDEwLjc2MzRDMTIuMzYwOCAxMC43NjM0IDEzLjk4NjkgOS4xMzcyMiAxMy45ODY5IDcuMTMxMjFDMTMuOTg2OSA1LjgwMjc4IDEzLjI2MiA0LjY1MjUzIDEyLjIwNjkgNC4wMjA0MUwxMS45NTk0IDMuODcyMTVMMTEuMDAwNyA0Ljg0MzE3TDExLjQzODEgNS4wNzQwOUMxMi4xNzY5IDUuNDY0MTIgMTIuNjc5MSA2LjIzOTI4IDEyLjY3OTEgNy4xMzEyMVoiIGZpbGw9IiNFMkU4RjAiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00Ljc4OTQ0IDEwLjQ1NDlMNC43ODk0NCAyLjQ3NjkxSDMuNDgxODFWMTAuNDU0OUg0Ljc4OTQ0WiIgZmlsbD0iI0UyRThGMCIvPgo8L2c+CjxkZWZzPgo8Y2xpcFBhdGggaWQ9ImNsaXAwXzFfMiI+CjxyZWN0IHdpZHRoPSIxNCIgaGVpZ2h0PSIxMC43OTg0IiBmaWxsPSJ3aGl0ZSIvPgo8L2NsaXBQYXRoPgo8L2RlZnM+Cjwvc3ZnPgo=" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=white&logo=typescript" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logoColor=ffd343&logo=Python" />
@@ -26,7 +27,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-2b3a42?style=flat-square&logo=webpack" />
   <img alt="tRPC" src="https://img.shields.io/badge/-tRPC-398ccb?style=flat-square&logoColor=white&logo=trpc" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-99425b?style=flat-square&logo=jest" />
-  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-1B1E2E?style=flat-square&logo=cypress" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00546B?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-dd392b?style=flat-square&logoColor=white&logo=Redis" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logoColor=white&logo=prisma" />
