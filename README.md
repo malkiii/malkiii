@@ -24,7 +24,7 @@
   <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-2b3a42?style=flat-square&logo=webpack" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" />
+  <img alt="tRPC" src="https://img.shields.io/badge/-tRPC-398ccb?style=flat-square&logoColor=white&logo=trpc" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-99425b?style=flat-square&logo=jest" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00546B?style=flat-square&logo=mysql&logoColor=white" />
