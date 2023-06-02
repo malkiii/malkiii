@@ -45,6 +45,7 @@
 
 <div align=center>
   <img alt="Github Stats" height=195 src="https://github-readme-streak-stats.herokuapp.com/?user=malkiii&theme=radical" />
-  <img alt="Top Langs" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkiii&hide=python&layout=donut&theme=radical" height=200 />
+  <img alt="Top Langs" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkiii&hide=python&layout=donut&theme=radical" />
+  <img alt="Activity Graph" height=286 src="https://github-readme-activity-graph.vercel.app/graph?username=malkiii&theme=redical" />
 </div>
 
