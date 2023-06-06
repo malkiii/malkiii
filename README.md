@@ -1,8 +1,6 @@
 <h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFhZmFmZWEyZGM1MTQ2ZTUyMjNhZmZmODU3NjdiMWNmZGI4MzFmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/BClfp8V6mQyhzof4gp/giphy.gif" width="30"> Nice to see you here!</h1>
 
-<p>
-  I'm <i>Malki Abdurrahman</i>, a dedicated university student pursuing a computer science degree.I mainly code in TypeScript and I'm an experienced full stack developer with React <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/react-js-icon.svg" alt="React" width=20 align=center /> and Next.js and building dynamic and responsive web applications. I'm interested in AI tools, they incorporate innovative features into my projects and increase my productivity. I started my coding journey in 2021 and I never shy away from learning something new. You can explore my GitHub portfolio to see the wide range of projects I've worked on.
-</p>
+<p>I'm <i>Malki Abdurrahman</i>, a dedicated university student pursuing a computer science degree.I mainly code in TypeScript and I'm an experienced full stack developer with React <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/react-js-icon.svg" alt="React" width=20 align=center /> and Next.js and building dynamic and responsive web applications. I'm interested in AI tools, they incorporate innovative features into my projects and increase my productivity. I started my coding journey in 2021 and I never shy away from learning something new. You can explore my GitHub portfolio to see the wide range of projects I've worked on.</p>
 
 <div align=center>
   <a href="https://twitter.com/MalkiAbduu"><img alt="Twitter" src="https://img.shields.io/badge/-@MalkiAbduu-1d9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MalkiAbduu" /></a>
@@ -33,7 +31,7 @@
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logoColor=white&logo=prisma" />
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0066b8?style=flat-square&logo=visual-studio-code" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-2F3A3E?style=flat-square&logo=GNU%20Bash&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-efefe7?style=flat-square&logo=git" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logoColor=white&logo=git" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-BD34FE?style=flat-square&logo=vite&logoColor=FFDD35" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-e87611?style=flat-square&logo=cloudflare&logoColor=white" />
