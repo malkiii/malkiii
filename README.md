@@ -1,4 +1,31 @@
-<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFhZmFmZWEyZGM1MTQ2ZTUyMjNhZmZmODU3NjdiMWNmZGI4MzFmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/BClfp8V6mQyhzof4gp/giphy.gif" width="30"> Nice to see you here!</h1>
+<table align=center>
+  <tr>
+    <td width="500px" valign="top">
+      <div align=center><img alt="My Score" src="https://malkiii-ewg.vercel.app/image/2/score" width=50 align=center /></div>
+      <div align=center><img alt="My Pile" src="https://malkiii-ewg.vercel.app/image/2/deck" width=100 align=center /></div>
+      <br>
+      <div align=center>
+        <img alt="My Card" src="https://malkiii-ewg.vercel.app/image/2/card" width=90 />
+        <img alt="Your Card" src="https://malkiii-ewg.vercel.app/image/1/card" width=90 />
+      </div>
+      <br>
+      <div align=center><img alt="Your Pile" src="https://malkiii-ewg.vercel.app/image/1/deck" width=100 align=center /></div>
+      <div align=center>👆<img alt="Your Score" src="https://malkiii-ewg.vercel.app/image/1/score" width=50 align=center /></div>
+    </td>
+    <td width="500px" valign="top">
+      <h2>Let's play <a href="https://youtu.be/yX-jOVer758">war</a></h2>
+      <ul>
+        <li>Each one has 26 cards</li>
+        <li>The one with the highest score wins</li>
+        <li>Click on your pile to play</li>
+      </ul>
+      <a href="#-nice-to-see-you-here">I don't want to play!</a>
+      <a href="#bottom">I don't want to play!</a>
+    </td>
+  </tr>
+</table>
+
+<h1><img alt="Hi" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFhZmFmZWEyZGM1MTQ2ZTUyMjNhZmZmODU3NjdiMWNmZGI4MzFmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/BClfp8V6mQyhzof4gp/giphy.gif" width=30 /> Nice to see you here!</h1>
 
 <p>I'm <i>Malki Abdurrahman</i>, a dedicated university student pursuing a computer science degree.I mainly code in TypeScript and I'm an experienced full stack developer with React <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/react-js-icon.svg" alt="React" width=20 align=center /> and Next.js and building dynamic and responsive web applications. I'm interested in AI tools, they incorporate innovative features into my projects and increase my productivity. I started my coding journey in 2021 and I never shy away from learning something new. You can explore my GitHub portfolio to see the wide range of projects I've worked on.</p>
 
@@ -46,4 +73,4 @@
   <img alt="Top Langs" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkiii&border_radius=0&hide=python&layout=donut&theme=vision-friendly-dark&title_color=fb8c00" />
   <img alt="Activity Graph" height=286 src="https://github-readme-activity-graph.vercel.app/graph?username=malkiii&bg_color=000000&color=ffffff&line=fb8c00&point=4931b4&area=true" />
 </div>
-
+<a name="bottom"></a>
