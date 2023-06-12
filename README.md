@@ -11,6 +11,7 @@
       <br>
       <div align=center><img alt="Your Pile" src="https://malkiii-ewg.vercel.app/image/1/deck" width=100 align=center /></div>
       <div align=center>👆<img alt="Your Score" src="https://malkiii-ewg.vercel.app/image/1/score" width=50 align=center /></div>
+      <div name="skip-game"></div>
     </td>
     <td width="500px" valign="top">
       <h2>Let's play <a href="https://youtu.be/yX-jOVer758">war</a></h2>
@@ -23,7 +24,6 @@
     </td>
   </tr>
 </table>
-<div name="skip-game"></div><br>
 
 <h1><img alt="Hi" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFhZmFmZWEyZGM1MTQ2ZTUyMjNhZmZmODU3NjdiMWNmZGI4MzFmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/BClfp8V6mQyhzof4gp/giphy.gif" width=30 /> Nice to see you here!</h1>
 
@@ -74,4 +74,4 @@
   <img alt="Activity Graph" height=286 src="https://github-readme-activity-graph.vercel.app/graph?username=malkiii&bg_color=000000&color=ffffff&line=fb8c00&point=4931b4&area=true" />
 </div>
 
-<a name="bottom"></a><br>
+<div name="bottom" align=center></div><br>
