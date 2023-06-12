@@ -9,7 +9,7 @@
         <img alt="Your Card" src="https://malkiii-ewg.vercel.app/image/1/card" width=90 />
       </div>
       <br>
-      <div align=center><img alt="Your Pile" src="https://malkiii-ewg.vercel.app/image/1/deck" width=100 align=center /></div>
+      <a href="https://malkiii-ewg.vercel.app/play"><div align=center><img alt="Your Pile" src="https://malkiii-ewg.vercel.app/image/1/deck" width=100 align=center /></div></a>
       <div align=center>👆<img alt="Your Score" src="https://malkiii-ewg.vercel.app/image/1/score" width=50 align=center /></div>
       <div name="skip-game"></div>
     </td>
