@@ -1,4 +1,4 @@
-<table align=center>
+<!-- <table align=center>
   <tr>
     <td width="500px" valign="top">
       <div align=center><img alt="My Score" src="https://malkiii-test9-ewg.vercel.app/score/2" width=50 align=center /></div>
@@ -26,7 +26,7 @@
     </td>
   </tr>
 </table>
-<br>
+<br> -->
 
 <h1><img alt="Hi" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFhZmFmZWEyZGM1MTQ2ZTUyMjNhZmZmODU3NjdiMWNmZGI4MzFmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/BClfp8V6mQyhzof4gp/giphy.gif" width=30 /> Nice to see you here!</h1>
 
