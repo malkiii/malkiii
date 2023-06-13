@@ -1,18 +1,18 @@
 <table align=center>
   <tr>
     <td width="500px" valign="top">
-      <div align=center><img alt="My Score" src="https://malkiii-test18-ewg.vercel.app/score/2" width=50 align=center /></div>
-      <div align=center><img alt="My Pile" src="https://malkiii-test18-ewg.vercel.app/image/2/pile" width=100 align=center /></div>
+      <div align=center><img alt="My Score" src="https://malkiii-test19-ewg.vercel.app/score/2" width=50 align=center /></div>
+      <div align=center><img alt="My Pile" src="https://malkiii-test19-ewg.vercel.app/image/2/pile" width=100 align=center /></div>
       <br>
       <div align=center>
-        <img alt="My Card" src="https://malkiii-test18-ewg.vercel.app/image/2/card" width=90 />
-        <img alt="Your Card" src="https://malkiii-test18-ewg.vercel.app/image/1/card" width=90 />
+        <img alt="My Card" src="https://malkiii-test19-ewg.vercel.app/image/2/card" width=90 />
+        <img alt="Your Card" src="https://malkiii-test19-ewg.vercel.app/image/1/card" width=90 />
       </div>
       <br>
-      <a href="https://malkiii-test18-ewg.vercel.app/play?callback=https://github.com/malkiii">
-        <div align=center><img alt="Your Pile" src="https://malkiii-test18-ewg.vercel.app/image/1/pile" width=100 align=center /></div>
+      <a href="https://malkiii-test19-ewg.vercel.app/play?callback=https://github.com/malkiii">
+        <div align=center><img alt="Your Pile" src="https://malkiii-test19-ewg.vercel.app/image/1/pile" width=100 align=center /></div>
       </a>
-      <div align=center>👆<img alt="Your Score" src="https://malkiii-test18-ewg.vercel.app/score/1" width=50 align=center /></div>
+      <div align=center>👆<img alt="Your Score" src="https://malkiii-test19-ewg.vercel.app/score/1" width=50 align=center /></div>
       <div name="skip-game"></div>
     </td>
     <td width="500px" valign="top">
