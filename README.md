@@ -74,9 +74,9 @@
 <h2>📊 Stats</h2>
 
 <div align=center>
-  <img alt="Github Streaks" height=195 src="https://github-readme-streak-stats.herokuapp.com/?user=malkiii&border_radius=&theme=highcontrast" />
-  <img alt="Top Langs" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkiii&border_radius=0&hide=python&layout=donut&theme=vision-friendly-dark&title_color=fb8c00" />
-  <img alt="Activity Graph" height=286 src="https://github-readme-activity-graph.vercel.app/graph?username=malkiii&bg_color=000000&color=ffffff&line=fb8c00&point=4931b4&area=true" />
+  <img alt="Github Streaks" height=195 src="https://github-readme-streak-stats.herokuapp.com/?user=malkiii&border_radius=0&theme=codestackr" />
+  <img alt="Top Langs" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkiii&border_radius=0&hide=python&layout=donut&theme=codeSTACKr&border_color=fff" />
+  <img alt="Activity Graph" height=286 src="https://github-readme-activity-graph.vercel.app/graph?username=malkiii&bg_color=09131b&color=ffffff&line=ff652f&point=ffe400&area=true" />
 </div>
 
 <div name="bottom" align=center></div><br>
