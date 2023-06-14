@@ -1,18 +1,18 @@
 <table align=center>
   <tr>
     <td width="500px" valign="top">
-      <div align=center><img alt="My Score" src="https://malkiii-test27-ewg.vercel.app/player/2/score" width=50 align=center /></div>
-      <div align=center><img alt="My Pile" src="https://malkiii-test27-ewg.vercel.app/player/2/pile" width=100 align=center /></div>
+      <div align=center><img alt="My Score" src="https://malki-ewg.vercel.app/player/2/score" width=50 align=center /></div>
+      <div align=center><img alt="My Pile" src="https://malki-ewg.vercel.app/player/2/pile" width=100 align=center /></div>
       <br>
       <div align=center>
-        <img alt="My Card" src="https://malkiii-test27-ewg.vercel.app/player/2/card" width=90 />
-        <img alt="Your Card" src="https://malkiii-test27-ewg.vercel.app/player/1/card" width=90 />
+        <img alt="My Card" src="https://malki-ewg.vercel.app/player/2/card" width=90 />
+        <img alt="Your Card" src="https://malki-ewg.vercel.app/player/1/card" width=90 />
       </div>
       <br>
-      <a href="https://malkiii-test27-ewg.vercel.app/play?callback=https://github.com/malkiii">
-        <div align=center><img alt="Your Pile" src="https://malkiii-test27-ewg.vercel.app/player/1/pile" width=100 align=center /></div>
+      <a href="https://malki-ewg.vercel.app/play?callback=https://github.com/malkiii">
+        <div align=center><img alt="Your Pile" src="https://malki-ewg.vercel.app/player/1/pile" width=100 align=center /></div>
       </a>
-      <div align=center>👆<img alt="Your Score" src="https://malkiii-test27-ewg.vercel.app/player/1/score" width=50 align=center /></div>
+      <div align=center>👆<img alt="Your Score" src="https://malki-ewg.vercel.app/player/1/score" width=50 align=center /></div>
       <div name="skip-game"></div>
     </td>
     <td width="500px" valign="top">
@@ -23,6 +23,8 @@
         <li>Click on your pile to play</li>
       </ul>
       <a href="#skip-game">I don't want to play!</a>
+      <h3>How it works!</h3>
+      <p>its a card war game built using `express` and Node.js, you can see my project <a href="https://github.com/malkiii/express-war-game">express-war-game</a>.</p>
     </td>
   </tr>
 </table>
