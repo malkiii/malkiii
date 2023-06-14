@@ -24,7 +24,7 @@
       </ul>
       <a href="#-nice-to-see-you-here">I don't want to play!</a>
       <h3>How it works!</h3>
-      <p>its a card war game built using `express` and Node.js, you can see my project <a href="https://github.com/malkiii/express-war-game">express-war-game</a>.</p>
+      <p>its a card war game built using express and node.js, you can see my project <a href="https://github.com/malkiii/express-war-game">express-war-game</a>.</p>
     </td>
   </tr>
 </table>
