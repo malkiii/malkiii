@@ -13,7 +13,6 @@
         <div align=center><img alt="Your Pile" src="https://malki-ewg.vercel.app/player/1/pile" width=100 align=center /></div>
       </a>
       <div align=center>👆<img alt="Your Score" src="https://malki-ewg.vercel.app/player/1/score" width=50 align=center /></div>
-      <div name="skip-game"></div>
     </td>
     <td width="500px" valign="top">
       <h2>Let's play <a href="https://youtu.be/yX-jOVer758">war</a></h2>
@@ -23,7 +22,7 @@
         <li>Click on 👆 pile to play</li>
         <li>the <b>LEFT</b> card is your card</li>
       </ul>
-      <a href="#skip-game">I don't want to play!</a>
+      <a href="#-nice-to-see-you-here">I don't want to play!</a>
       <h3>How it works!</h3>
       <p>its a card war game built using `express` and Node.js, you can see my project <a href="https://github.com/malkiii/express-war-game">express-war-game</a>.</p>
     </td>
