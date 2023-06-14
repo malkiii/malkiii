@@ -20,7 +20,8 @@
       <ul>
         <li>Each one has 26 cards</li>
         <li>The one with the highest score wins</li>
-        <li>Click on your pile to play</li>
+        <li>Click on 👆 pile to play</li>
+        <li>the <b>LEFT</b> card is your card</li>
       </ul>
       <a href="#skip-game">I don't want to play!</a>
       <h3>How it works!</h3>
