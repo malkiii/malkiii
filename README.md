@@ -23,7 +23,7 @@
         <li>the <b>RIGHT</b> card is your card</li>
       </ul>
       <a href="#-about-me">I don't want to play!</a>
-      <h3>How it works!</h3>
+      <h2>How it works!</h2>
       <p>it's a card war game built using express and node.js, you can see my project <a href="https://github.com/malkiii/express-war-game">express-war-game</a>.</p>
     </td>
   </tr>
