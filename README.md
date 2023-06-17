@@ -1,18 +1,18 @@
 <table align=center>
   <tr>
     <td width="500px" valign="top">
-      <div align=center><img alt="My Score" src="https://malki-ewg.vercel.app/player/2/score" width=50 align=center /></div>
-      <div align=center><img alt="My Pile" src="https://malki-ewg.vercel.app/player/2/pile" width=100 align=center /></div>
+      <div align=center><img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/2/score" width=50 align=center /></div>
+      <div align=center><img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/2/pile" width=100 align=center /></div>
       <br>
       <div align=center>
-        <img alt="My Card" src="https://malki-ewg.vercel.app/player/2/card" width=90 />
-        <img alt="Your Card" src="https://malki-ewg.vercel.app/player/1/card" width=90 />
+        <img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/2/card" width=90 />
+        <img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/1/card" width=90 />
       </div>
       <br>
       <a href="https://malki-ewg.vercel.app/play?callback=https://github.com/malkiii">
-        <div align=center><img alt="Your Pile" src="https://malki-ewg.vercel.app/player/1/pile" width=100 align=center /></div>
+        <div align=center><img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/1/pile" width=100 align=center /></div>
       </a>
-      <div align=center>👆<img alt="Your Score" src="https://malki-ewg.vercel.app/player/1/score" width=50 align=center /></div>
+      <div align=center>👆<img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/1/score" width=50 align=center /></div>
     </td>
     <td width="500px" valign="top">
       <h2>Let's play <a href="https://youtu.be/yX-jOVer758">war</a></h2>
