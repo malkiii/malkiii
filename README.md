@@ -81,4 +81,4 @@
   <img alt="Activity Graph" height=286 src="https://github-readme-activity-graph.vercel.app/graph?username=malkiii&bg_color=09131b&color=ffffff&line=ff652f&point=ffe400&area=true" />
 </div>
 
-<div name="bottom" align=center></div><br>
+<div name="bottom" align=center></div>
