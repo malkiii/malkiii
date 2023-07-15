@@ -24,14 +24,14 @@
         <li>Click on 👆 pile to play</li>
         <li>the <b>RIGHT</b> card is your card</li>
       </ul>
-      <a href="#skip-game">I don't want to play!</a>
+      <a href="#my-stats">I don't want to play!</a>
       <h2>How it works!</h2>
       <p>It's a card war game built using express and node.js, you can see my project <a href="https://github.com/malkiii/express-war-game">express-war-game</a>.</p>
     </td>
   </tr>
 </table>
 
-<div name="skip-game" align=center></div><br>
+<div name="my-stats" align=center></div><br>
 
 <h2>⚡ My Teck Stack</h2>
 
