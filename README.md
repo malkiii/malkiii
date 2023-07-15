@@ -15,6 +15,7 @@
         </a>
       </div>
       <div align=center>👆<img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/1/score" width=50 align=center /></div>
+      <div name="skip-game" align=center></div>
     </td>
     <td width="500px" valign="top">
       <h2>Let's play <a href="https://youtu.be/yX-jOVer758">war</a></h2>
@@ -24,7 +25,7 @@
         <li>Click on 👆 pile to play</li>
         <li>the <b>RIGHT</b> card is your card</li>
       </ul>
-      <a href="#-my-teck-stack">I don't want to play!</a>
+      <a href="#skip-game">I don't want to play!</a>
       <h2>How it works!</h2>
       <p>It's a card war game built using express and node.js, you can see my project <a href="https://github.com/malkiii/express-war-game">express-war-game</a>.</p>
     </td>
