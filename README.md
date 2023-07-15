@@ -24,24 +24,13 @@
         <li>Click on 👆 pile to play</li>
         <li>the <b>RIGHT</b> card is your card</li>
       </ul>
-      <a href="#-about-me">I don't want to play!</a>
+      <a href="#-my-teck-stack">I don't want to play!</a>
       <h2>How it works!</h2>
       <p>It's a card war game built using express and node.js, you can see my project <a href="https://github.com/malkiii/express-war-game">express-war-game</a>.</p>
     </td>
   </tr>
 </table>
 <br>
-
-<h1><img alt="Hi" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFhZmFmZWEyZGM1MTQ2ZTUyMjNhZmZmODU3NjdiMWNmZGI4MzFmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/BClfp8V6mQyhzof4gp/giphy.gif" width=30 /> About me</h1>
-
-<p>I'm <i>Malki Abdurrahman</i>, a dedicated university student pursuing a computer science degree.I mainly code in TypeScript and I'm an experienced full stack developer with React <a href="#bottom"><img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/react-js-icon.svg" alt="React" width=20 align=center /></a> and Next.js and building dynamic and responsive web applications. I'm interested in AI tools, they incorporate innovative features into my projects and increase my productivity. I started my coding journey in 2021 and I never shy away from learning something new. You can explore my GitHub portfolio to see the wide range of projects I've worked on.</p>
-
-<div align=center>
-  <a href="https://twitter.com/MalkiAbduu"><img alt="Twitter" src="https://img.shields.io/badge/-@MalkiAbduu-1d9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MalkiAbduu" height=22 /></a>
-  <a href="https://www.instagram.com/malkiabduu"><img alt="Instagram" src="https://img.shields.io/badge/-malkiabduu-ff0d5f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/malkiabduu" height=22 /></a>
-  <a href="https://web.facebook.com/malkiabduu"><img alt="Facebook" src="https://img.shields.io/badge/-Malki_abdo-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/malkiabduu" height=22 /></a>
-  <a href="mailto:malki.abdurrahmane@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-malki.abdurrahmane@gmail.com-c92621?style=flat-square&logo=gmail&logoColor=white&link=mailto:malki.abdurrahmane@gmail.com" height=22 /></a>
-</div>
 
 <h2>⚡ My Teck Stack</h2>
 
