@@ -66,5 +66,5 @@
 <h2>📊 Stats</h2>
 
 <div align=center>
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=malkiii&theme=github-compact&area=true&animations=false" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=malkiii&theme=github-compact&area=true" />
 </div>
