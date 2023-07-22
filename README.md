@@ -63,7 +63,7 @@
   <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-10a37f?style=flat-square&logo=openai" height=23 />
 </div>
 
-<details open>
+<details>
   <summary><h2>📊 Stats</h2></summary>
   <div align=center>
     <img alt="Github Streaks" height=195 src="https://github-readme-streak-stats.herokuapp.com/?user=malkiii&border_radius=0&theme=codestackr" />
