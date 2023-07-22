@@ -63,8 +63,10 @@
   <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-10a37f?style=flat-square&logo=openai" height=23 />
 </div>
 
-<h2>📊 Stats</h2>
+<details>
+<summary><h2>📊 Stats</h2></summary>
 
 <div align=center>
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=malkiii&theme=github-compact&area=true" />
 </div>
+</details>
