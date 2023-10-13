@@ -2,7 +2,11 @@
   <tr>
     <td width="500px" valign="top">
       <div align=center><img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/2/score" width=50 align=center /></div>
-      <div align=center><img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/2/pile" width=100 align=center /></div>
+      <div align=center>
+        <a href="https://malki-ewg.vercel.app/play?callback=https://github.com/malkiii">
+          <img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/2/pile" width=100 align=center />
+        </a>
+      </div>
       <br>
       <div align=center>
         <img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/2/card" width=90 />
