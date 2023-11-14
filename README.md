@@ -34,7 +34,7 @@
     </td>
   </tr>
 </table>
-<br name="my-stats" />
+<div name="my-stats" />
 
 <h2>📊 Stats</h2>
 
