@@ -35,9 +35,9 @@
   </tr>
 </table>
 
-<h2>📊 Stats</h2>
+<h2 name="my-stats">📊 Stats</h2>
 
-<details name="my-stats">
+<details>
   <summary><b>Show details</b></summary><br>
   <div align=center>
     <img alt="Github Streaks" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=malkiii&theme=dark&border_radius=10&ring=fff&fire=fff&currStreakLabel=fff" />
