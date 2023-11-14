@@ -1,6 +1,6 @@
 <table align=center>
   <tr>
-    <td width="500px" valign="top">
+    <td width="500" valign="top">
       <div align=center><img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/2/score" width=50 align=center /></div>
       <div align=center>
         <a href="https://malki-ewg.vercel.app/play?callback=https://github.com/malkiii">
@@ -20,8 +20,8 @@
       </div>
       <div align=center>👆<img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/1/score" width=50 align=center /></div>
     </td>
-    <td width="500px" valign="top">
-      <h2>Let's play <a href="https://youtu.be/yX-jOVer758">war</a></h2>
+    <td width="500" valign="top">
+      <h2>♠ Let's play <a href="https://youtu.be/yX-jOVer758">war</a></h2>
       <ul>
         <li>Each one has 26 cards</li>
         <li>The one with the highest score wins</li>
@@ -29,14 +29,16 @@
         <li>the <b>RIGHT</b> card is your card</li>
       </ul>
       <a href="#my-stats">I don't want to play!</a>
-      <h2>How it works!</h2>
+      <h2>❓ How it works</h2>
       <p>It's a card war game built using express and node.js, you can see my project <a href="https://github.com/malkiii/express-war-game">express-war-game</a>.</p>
     </td>
   </tr>
 </table>
 
+<h2>📊 Stats</h2>
+
 <details name="my-stats">
-  <summary><h2>📊 Stats</h2></summary>
+  <summary><b>Show details</b></summary>
   <div align=center>
     <img alt="Github Streaks" height=195 src="https://github-readme-streak-stats.herokuapp.com/?user=malkiii&border_radius=0&theme=codestackr" />
     <img alt="Top Langs" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkiii&border_radius=0&hide=python&layout=donut&theme=codeSTACKr&border_color=fff" />
