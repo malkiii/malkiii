@@ -34,8 +34,9 @@
     </td>
   </tr>
 </table>
+<br name="my-stats" />
 
-<h2 name="my-stats">📊 Stats</h2>
+<h2>📊 Stats</h2>
 
 <details>
   <summary><b>Show details</b></summary><br>
