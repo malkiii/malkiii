@@ -38,7 +38,7 @@
 <h2>📊 Stats</h2>
 
 <details name="my-stats">
-  <summary><b>Show details</b></summary>
+  <summary><b>Show details</b></summary><br>
   <div align=center>
     <img alt="Github Streaks" height=195 src="https://github-readme-streak-stats.herokuapp.com/?user=malkiii&border_radius=0&theme=codestackr" />
     <img alt="Top Langs" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkiii&border_radius=0&hide=python&layout=donut&theme=codeSTACKr&border_color=fff" />
