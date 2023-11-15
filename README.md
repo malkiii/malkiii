@@ -21,7 +21,7 @@
       <div align=center>👆<img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/1/score" width=50 align=center /></div>
     </td>
     <td width="500" valign="top">
-      <h2>♠ Let's play <a href="https://youtu.be/yX-jOVer758">war</a></h2>
+      <h2>♠ Let's play war</h2>
       <ul>
         <li>Each one has 26 cards</li>
         <li>The one with the highest score wins</li>
