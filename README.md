@@ -24,8 +24,8 @@
       <h2>♠ Let's play war</h2>
       <ul>
         <li>Each one has 26 cards</li>
-        <li>The one with the highest score wins</li>
         <li>Click on 👆 pile at the bottom to play</li>
+        <li>The one with the highest score wins</li>
         <li>the <b>RIGHT</b> card is your card</li>
       </ul>
       <a href="#my-stats">I don't want to play!</a>
