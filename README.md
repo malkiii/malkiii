@@ -29,7 +29,7 @@
         <li>the <b>RIGHT</b> card is your card</li>
       </ul>
       <h2>❓ How it works</h2>
-      <p>It's a card war game built using express and node.js, you can see my project <a href="/malkiii/express-war-game">express-war-game</a>.</p>
+      <p>It's a card war game built using express and node.js, you can see my project <a href="https://github.com/malkiii/express-war-game">express-war-game</a>.</p>
     </td>
   </tr>
 </table>
