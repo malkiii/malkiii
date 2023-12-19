@@ -28,14 +28,13 @@
         <li>The one with the highest score wins</li>
         <li>the <b>RIGHT</b> card is your card</li>
       </ul>
-      <a href="#my-stats">I don't want to play!</a>
       <h2>❓ How it works</h2>
-      <p>It's a card war game built using express and node.js, you can see my project <a href="https://github.com/malkiii/express-war-game">express-war-game</a>.</p>
+      <p>It's a card war game built using express and node.js, you can see my project <a href="/malkiii/express-war-game">express-war-game</a>.</p>
     </td>
   </tr>
 </table>
 
-<h2 name="my-stats">📊 Stats</h2>
+<h2>📊 Stats</h2>
 
 <details>
   <summary><b>Show details</b></summary><br>
