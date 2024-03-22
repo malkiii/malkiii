@@ -33,14 +33,3 @@
     </td>
   </tr>
 </table>
-
-<h2>📊 Stats</h2>
-
-<details>
-  <summary><b>Show details</b></summary><br>
-  <div align=center>
-    <img alt="Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=malkiii&show_icons=true&icon_color=fff&theme=dark&border_radius=10" />
-    <img alt="Streaks" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=malkiii&theme=dark&border_radius=10&ring=fff&fire=fff&currStreakLabel=fff" />
-    <img alt="Activity Graph" height="286" src="https://github-readme-activity-graph.vercel.app/graph?username=malkiii&bg_color=151515&color=fff&line=fff&point=fff&area=true&radius=15" />
-  </div>
-</details>
