@@ -18,13 +18,13 @@
           <img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/1/pile" width="100" align=center />
         </a>
       </div>
-      <div align=center>👆<img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/1/score" width="47" align=center /></div>
+      <div align=center>▲<img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/1/score" width="47" align=center />▲</div>
     </td>
     <td width="500" valign="top">
       <h2>♠ Let's play WAR</h2>
       <ul>
         <li>Each one has 26 cards</li>
-        <li>Click on 👆 pile at the bottom to play</li>
+        <li>Click on your pile at the bottom to play</li>
         <li>The one with the highest score wins</li>
         <li>the <b>RIGHT</b> card is your card</li>
       </ul>
