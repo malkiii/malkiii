@@ -9,8 +9,8 @@
       </div>
       <br>
       <div align=center>
-        <img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/2/card" width="90" height="125" />
-        <img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/1/card" width="90" height="125" />
+        <img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/2/card" width="95" height="132" />
+        <img alt="Refresh the page if it doesn't show up" src="https://malki-ewg.vercel.app/player/1/card" width="95" height="132" />
       </div>
       <br>
       <div align=center>
