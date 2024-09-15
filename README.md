@@ -29,7 +29,7 @@
         <li>the <b>RIGHT</b> card is your card</li>
       </ul>
       <h2>❓ How it works</h2>
-      <p>It's a card war game built using Hono.js with CF workers, you can check the source code <a href="https://github.com/malkiii/hono-war-game">here</a>.</p>
+      <p>It's a card war game built using Hono.js with Cloudflare workers, you can check the source code <a href="https://github.com/malkiii/hono-war-game">here</a>.</p>
     </td>
   </tr>
 </table>
