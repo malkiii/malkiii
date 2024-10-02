@@ -26,7 +26,7 @@
         <li>Each one has 26 cards</li>
         <li>Click on your pile at the bottom to play</li>
         <li>The one with the highest score wins</li>
-        <li>the <b>RIGHT</b> card is your card</li>
+        <li>The <b>RIGHT</b> card is your card</li>
       </ul>
       <h2>❓ How it works</h2>
       <p>It's a card war game built using Hono.js with Cloudflare workers, you can check the source code <a href="https://github.com/malkiii/hono-war-game">here</a>.</p>
