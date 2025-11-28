@@ -21,7 +21,7 @@
       <div align=center>▲<a href="#start-of-content"><img alt="Refresh the page if it doesn't show up" src="https://war.malki-abdurrahmane.workers.dev/player/1/score" width="47" height="47" align=center /></a>▲</div>
     </td>
     <td width="500" valign="top">
-      <h2>♠ Let's play WAR</h2>
+      <h2>♠️ Let's play WAR</h2>
       <ul>
         <li>Each one has 26 cards</li>
         <li>Click on your pile at the bottom to play</li>
